@@ -66,7 +66,7 @@
 ## <div align="center">Connect with me</div>
 <div align="center">
 <a href="https://github.com/DilaverShtini" target="_blank"><img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://linkedin.com/in/DilaverShtini" target="_blank"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/dilaver-shtini-969a272a2" target="_blank"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://instagram.com/veri.shtini" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </div>  
 
