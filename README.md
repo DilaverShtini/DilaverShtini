@@ -1,6 +1,6 @@
 ### <div align="center">I'm Dilaver 👋</div>  
 
-- 🔭 I’m currently working on two university projects: **AlmaSpot (BigData)** and **Nomi-Cose-Città (Distributed Systems)**.  
+- 🔭 I’m currently working on **AlmaSpot-BigData** for the Big Data course.  
 - 🌱 I’m currently learning **AWS** to implement my Big Data project.  
 
 <br/>  
