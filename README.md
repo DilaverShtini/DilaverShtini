@@ -1,7 +1,7 @@
 ### <div align="center">I'm Dilaver 👋</div>  
 
-- 🔭 I’m currently working on **AlmaSpot-BigData** for the Big Data course.  
-- 🌱 I’m currently learning **AWS** to implement my Big Data project.  
+- 🔭 I’m currently working on **VAR-skin-lesion-classification** project for the Visione Artificiale & Riconoscimento course.  
+- 🌱 I’m currently learning **CARLA** to implement my Smart Vehicular System project.
 
 <br/>  
 
