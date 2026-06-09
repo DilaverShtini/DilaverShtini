@@ -1,6 +1,6 @@
 ### <div align="center">I'm Dilaver 👋</div>  
 
-- 🔭 I’m currently working on **svs-forensic-viewer* project for the Smart Vehicular systems course.  
+- 🔭 I’m currently working on **svs-forensic-viewer** project for the Smart Vehicular systems course.  
 - 🌱 I’m currently learning **CARLA** to implement my Smart Vehicular System project.
 
 <br/>  
