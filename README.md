@@ -1,9 +1,5 @@
 ### <div align="center">I'm Dilaver 👋</div>  
 
-- 🔭 I’m currently working on **svs-forensic-viewer** project for the Smart Vehicular systems course.  
-- 🌱 I’m currently learning **CARLA** to implement my Smart Vehicular System project.
-
-<br/>  
 
 <div align="center">
 
@@ -56,9 +52,7 @@
 
 ## <div align="center">GitHub Stats</div>
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DilaverShtini&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DilaverShtini&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=DilaverShtini&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 <br/>  
